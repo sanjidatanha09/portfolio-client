@@ -1,0 +1,49 @@
+[
+    {
+        "bio_id": "1",
+        "bio_img": "https://i.ibb.co/mGtQMJF/download.png",
+        "bio_name": "HTML 5"
+        
+    },
+    {
+        "bio_id": "2",
+        "bio_img": "https://i.ibb.co/YdHPJPN/logo-2582747-1280.webp",
+        "bio_name": "CSS 3"
+       
+    },
+    {
+        "bio_id": "3",
+        "bio_img": "https://pkp.sfu.ca/wp-content/uploads/2022/11/bootstrap-logo.png",
+        "bio_name": "BootStrap"
+        
+    },
+    {
+        "bio_id": "4",
+        "bio_img": "https://i.ibb.co/cgcBKrD/Free-Courses-to-learn-Java-Script.jpg",
+        "bio_name": "JavaScript"
+       
+    },
+    {
+        "bio_id": "5",
+        "bio_img": "https://i.ibb.co/7YjjXr3/React-icon-svg.png",
+        "bio_name": "React Js"
+        
+    },
+    {
+        "bio_id": "6",
+        "bio_img": "https://i.ibb.co/d00JJ3R/tailwind.png",
+        "bio_name": "Tailwind CSS"
+        
+    },
+    {
+        "bio_id": "7",
+        "bio_img": "https://i.ibb.co/KyBR76N/node-js.webp",
+        "bio_name": "Node JS"
+    },
+    {
+        "bio_id": "8",
+        "bio_img": "https://i.ibb.co/kqHgqMS/nextjs3.webp",
+        "bio_name": "Next Js"
+    }
+    
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "bio_id": "1",
+        "bio_img": "https://i.ibb.co/2Zs760p/foodheaven.jpg",
+        "bio_name": "A Food Restuarent Website using React JS",
+        "bio_link": "https://assignment-11-c9a9e.web.app/"
+    },
+    {
+        "bio_id": "2",
+        "bio_img": "https://i.ibb.co/9sYSdjH/brandshop.jpg",
+        "bio_name": "A Technology Website using React JS",
+        "bio_link": " https://brand-shop-b9fbd.web.app/"
+    },
+    {
+        "bio_id": "3",
+        "bio_img": "https://i.ibb.co/nQCFRS8/hospital.jpg",
+        "bio_name": "A Medical Fair Website using React JS",
+        "bio_link": "https://hospital-management-f641c.web.app/"
+    },
+    {
+        "bio_id": "4",
+        "bio_img": "https://i.ibb.co/JRfW4Kt/matrimony.jpg",
+        "bio_name": "Matrimony Website using React JS",
+        "bio_link": " https://matrimony-d8018.web.app/"
+    }
+    
+]
